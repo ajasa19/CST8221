@@ -1,0 +1,1 @@
+index.o: ../index.c
